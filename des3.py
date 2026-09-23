@@ -1,0 +1,16 @@
+valor = int(input("Informe o valor a ser sacado: "))
+notas100 = valor // 100
+valor %= 100
+notas50 = valor // 50
+valor %= 50
+notas20  = valor // 20
+valor %= 20
+notas10 = valor // 10
+valor %= 10
+notas5 = valor // 5
+valor %= 5
+print(f"Notas de R$100 = {notas100}")
+print(f"Notas de R$50 = {notas50}")
+print(f"Notas de R$20 = {notas20}")
+print(f"Notas de R$10 = {notas10}")
+print(f"Notas de R$5 = {notas5}")
