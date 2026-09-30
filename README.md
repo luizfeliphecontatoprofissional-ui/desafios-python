@@ -1,53 +1,54 @@
-# 🐍 Desafios Python
+# Roadmap de Estudos - *Python*🐍​
 
-Repositório dedicado ao estudo, prática e consolidação de conceitos fundamentais da linguagem Python. O objetivo é fortalecer a lógica de programação através de exercícios práticos e evoluir gradualmente para tópicos mais avançados.
+## 🟢 Fase 1: Fundamentos
 
-# 📌 Objetivos
+### Curso em Vídeo — Mundos 1, 2 e 3
 
--Relembrar e praticar a sintaxe essencial do Python.
+- [x] Mundo 1: Tipos primitivos, operadores, módulos e estruturas condicionais.
+- [x] Mundo 2: Estruturas condicionais e laços de repetição.
+- [x] Mundo 3: Tuplas, listas, dicionários e funções.
+- [ ] Modularização e pacotes.
+- [ ] Tratamento de erros e exceções.
 
--Trabalhar com controle de fluxo, laços de repetição e manipulação de listas.
+### Prática
 
--Manter um histórico organizado da minha evolução técnica na linguagem.
+- [x] Exercícios básicos de lógica.
+- [x] Exercícios com estruturas condicionais.
+- [x] Exercícios com laços de repetição.
+- [x] Exercícios com listas.
+- [ ] Exercícios intermediários combinando os conceitos estudados.
+- [ ] Exercícios focados em funções.
 
-# 🗺️ Roadmap de Estudos
+## 🟡 Fase 2: Consolidação & Projetos
 
-## 🟢 Fase 1: Base Sólida (Mundos 1, 2 e 3 - Curso em Vídeo)
+- [ ] Pequenos projetos de console.
+- [ ] Programação Orientada a Objetos (POO).
+- [ ] Manipulação de arquivos `.txt`, `.json` e `.csv`.
+- [x] Ambientes virtuais com `venv` e `pip`.
+- [X] Git & GitHub.
+- [ ] Testes automatizados.
 
-[x] Mundo 1: Tipos primitivos, operadores aritméticos, módulos e condicionais simples (if/else).
+## 🔴 Fase 3: Integração & Automação
 
-[x] Mundo 2: Condicionais aninhadas (elif) e laços de repetição (for e while).
+- [ ] Banco de Dados.
+- [ ] Integração entre Python e SQL.
+- [ ] Consumo de APIs REST.
+- [ ] Manipulação de JSON.
+- [ ] Automação de tarefas.
+- [ ] Web Scraping.
+- [ ] Automação Web.
 
-[x] Mundo 3: Estruturas compostas e modularização:
+## ⚫​ Fase 4: Especialização
 
-[x] Tuplas, Listas e Dicionários
+### 🌐 Desenvolvimento Web
 
-[x] Funções (def), parâmetros, empacotamento e docstrings
+- [ ] FastAPI, Flask ou Django.
+- [ ] Desenvolvimento de APIs.
+- [ ] Autenticação.
+- [ ] Integração com bancos de dados.
 
-[x] Modularização e Pacotes
+### 📊 Análise de Dados
 
-[x] Tratamento de Erros e Exceções (try/except)
-
-## 🟡 Fase 2: Práticas Intermediárias & Projetos
-
-[ ] Programação Orientada a Objetos (POO): Classes, objetos, métodos, herança e encapsulamento.
-
-[ ] Manipulação de Arquivos: Leitura e escrita de arquivos .txt, .json e .csv.
-
-[ ] Ambientes Virtuais: Gerenciamento de dependências com venv e pip.
-
-[ ] Git & GitHub: Fluxo de branches, mensagens de commit semânticas e documentação.
-
-## 🔴 Fase 3: Conectividade & Integração
-
-[ ] Consumo de APIs REST: Uso da biblioteca requests para consumir dados da web.
-
-[ ] Banco de Dados: Conexão e queries SQL utilizando sqlite3 ou PostgreSQL.
-
-[ ] Automação / Web Scraping: Automação de processos com BeautifulSoup ou Selenium.
-
-## 🎯 Fase 4: Especialização
-
-[ ] Desenvolvimento Web: Frameworks como FastAPI, Django ou Flask.
-
-[ ] Análise de Dados: Pandas, NumPy e visualização com Matplotlib.
+- [ ] NumPy.
+- [ ] Pandas.
+- [ ] Matplotlib.
