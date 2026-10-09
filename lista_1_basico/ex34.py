@@ -1,4 +1,4 @@
-#Conversos de Moedas
+#Conversor de Moedas(euro € e dólar $)
 reais = float(input("Digite um valor em reais: R$ "))
 cot_dol = float(input("Digite a cotação do dólar atual: $ "))
 cot_euro = float(input("Digite a cotação do euro atual : € "))
