@@ -7,8 +7,8 @@
 - [x] Mundo 1: Tipos primitivos, operadores, módulos e estruturas condicionais.
 - [x] Mundo 2: Estruturas condicionais e laços de repetição.
 - [x] Mundo 3: Tuplas, listas, dicionários e funções.
-- [ ] Modularização e pacotes.
-- [ ] Tratamento de erros e exceções.
+- [x] Modularização e pacotes.
+- [x] Tratamento de erros e exceções.
 
 ### Prática
 
