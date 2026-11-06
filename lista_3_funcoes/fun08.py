@@ -27,13 +27,7 @@ def calculadora(opcao, a, b):
 
 
 while True:
-    print("\n--- Calculadora ---")
-    print("[1] - Somar")
-    print("[2] - Subtrair")
-    print("[3] - Multiplicar")
-    print("[4] - Divisão")
-    print("[5] - Sair")
-
+    print("\n--- Calculadora ---\n1 - Somar\n2 - Somar\n3 - Multiplicar\n4 - Divisão\n5 - Sair")
     escolha = int(input("Escolha: "))
 
     if escolha == 5:
