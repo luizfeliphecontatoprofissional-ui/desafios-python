@@ -51,8 +51,8 @@ def consultar_categoria(despesas, categoria):
 
                 encontrou = True
 
-            if encontrou == False:
-                print("Categoria não encontrada!")
+        if encontrou == False:
+            print("Categoria não encontrada!")
 
 
 def excluir_despesa(despesas):
